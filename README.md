@@ -1,16 +1,21 @@
-### Hi there 👋
+### Ilya Glebov – @glebovdev
+Hi. I'm Ilya – full-stack web developer and DevOps.  
 
-<!--
-**glebovdev/glebovdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My dev-path started very-very long time ago with C++ and ASP.  
+Since then I mostly code with PHP. Projects I build run on Laravel.  
+I completely migrated from monolith to microservices (Docker).  
 
-Here are some ideas to get you started:
+Besides web-related technologies, I very passionate about Golang, Kotlin, and more DevOps-related techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I also do:
+- build things with Arduino  
+- fly with my Mavic Air 2 drone (pics on my Instagram 👇🏼)
+- play guitar from time to time
+
+#### Social
+- Twitter: <a href="https://twitter.com/glebovdev" target="_blank">@glebovdev</a>
+- Instagram: <a href="https://instagram.com/glebovdev">@glebovdev</a>
+
+More on my personal site 👉🏼 <a href="https://ilyaglebov.dev" target="_blank">ilyaglebov.dev</a> (soon)
+
+<small>ver 1.0.0</small>
