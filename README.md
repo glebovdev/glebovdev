@@ -18,4 +18,4 @@ Besides web-related technologies, I very passionate about Golang, Kotlin, and mo
 
 More on my personal site 👉🏼 <a href="https://ilyaglebov.dev" target="_blank">ilyaglebov.dev</a> (soon)
 
-<small>ver 1.0.0</small>
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/glebovdev/glebovdev)
