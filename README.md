@@ -13,6 +13,7 @@ Besides web-related technologies, I very passionate about Golang, Kotlin, and mo
 - play guitar from time to time
 
 #### Social
+- LinkedIn: <a href="https://www.linkedin.com/in/ilya-glebov/" target="_blank">Ilya Glebov</a>
 - Twitter: <a href="https://twitter.com/glebovdev" target="_blank">@glebovdev</a>
 - Instagram: <a href="https://instagram.com/glebovdev">@glebovdev</a>
 
