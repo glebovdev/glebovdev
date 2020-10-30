@@ -5,7 +5,8 @@ My dev-path started very-very long time ago with C++ and ASP.
 Since then I mostly code with PHP. Projects I build run on Laravel.  
 I completely migrated from monolith to microservices (Docker).  
 
-Besides web-related technologies, I very passionate about Golang, Kotlin, and more DevOps-related techniques.
+Besides web-related technologies, I very passionate about Golang, Scala, Python,
+Kotlin, Erlang, Lua and more DevOps-related techniques, like Terraform and Kubernetes.
 
 #### I also do:
 - build things with Arduino  
