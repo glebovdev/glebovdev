@@ -19,6 +19,11 @@ Kotlin, Erlang, Lua, Python and more DevOps-related techniques, like Ansible, Te
 - Medium: <a href="https://glebovdev.medium.com/" target="_blank">@glebovdev</a>
 - Instagram: <a href="https://instagram.com/glebovdev">@glebovdev</a>
 
+#### Recent blog posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 More on my personal site 👉🏼 <a href="https://ilyaglebov.dev" target="_blank">ilyaglebov.dev</a> (soon)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/glebovdev/glebovdev)
