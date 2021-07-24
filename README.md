@@ -21,7 +21,9 @@ Kotlin, Erlang, Lua, Python and more DevOps-related techniques, like Ansible, Te
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Time Conversion challenge (HackerRank) with Golang](https://glebovdev.medium.com/time-conversion-challenge-hackerrank-with-golang-e4efd02662ee?source=rss-5b7d5ccae745------2)
+- [Fix for “Unable to resolve dependency” Vagrant issue on macOS](https://glebovdev.medium.com/fix-for-unable-to-resolve-dependency-vagrant-issue-on-macos-61228f8fa5fc?source=rss-5b7d5ccae745------2)
+- [How to fix “Can’t load Android System” issue](https://glebovdev.medium.com/how-to-fix-cant-load-android-system-issue-8a5b0ead5a15?source=rss-5b7d5ccae745------2)
 <!-- BLOG-POST-LIST:END -->
 
 More on my personal site 👉🏼 <a href="https://ilyaglebov.dev" target="_blank">ilyaglebov.dev</a> (soon)
