@@ -1,17 +1,10 @@
 ### Ilya Glebov – @glebovdev
-Hi. I'm Ilya – full-stack web developer and DevOps.  
+Greetings! I'm Ilya, an experienced Full-Stack Web Developer and DevOps Engineer.
 
-My dev-path started in 2003 with C++ and ASP.  
-Since then I mostly code with PHP. Projects I build run on Laravel.  
-I completely migrated from monolith to microservices (Docker).  
+My development journey began in 2003 with C++ and ASP. I've since become proficient in PHP and Laravel, enabling me to build scalable projects.
 
-Besides web-related technologies, I very passionate about Golang, Scala, Rust,
-Kotlin, Erlang, Lua, Python and more DevOps-related techniques, like Ansible, Terraform and Kubernetes.
+In addition to web technologies, I'm passionate about various programming languages and DevOps tools, including Golang, Scala, Rust, Erlang, Lua, Python, Ansible, Terraform, and Kubernetes.
 
-#### I also do:
-- build things with Arduino  
-- fly with my Mavic Air 2 drone (pics on my Instagram 👇🏼)
-- play guitar from time to time
 
 #### Social
 - LinkedIn: <a href="https://www.linkedin.com/in/ilya-glebov/" target="_blank">Ilya Glebov</a>
