@@ -1,16 +1,33 @@
-### Ilya Glebov – @glebovdev
-Greetings! I'm Ilya, an experienced Full-Stack Web Developer and DevOps Engineer.
+## Ilya Glebov
+### Software Engineer & Tech Lead with 22 years of development experience
 
-My development journey began in 2003 with C++ and ASP. I've since become proficient in PHP and Laravel, enabling me to build scalable projects.
+Hi there 👋  
+I'm Ilya – a software engineer and tech lead passionate about clean architecture, scalable systems,  
+and turning complex problems into simple, elegant solutions.
 
-In addition to web technologies, I'm passionate about various programming languages and DevOps tools, including Golang, Scala, Rust, Erlang, Lua, Python, Ansible, Terraform, and Kubernetes.
+#### My professional expertise:
+- **Full-stack development** with PHP/Laravel ecosystem and RESTful API design
+- **Technical leadership** with a focus on architecture and best practices
+- **DevOps practices** with a focus on Ansible, Traefik and CI/CD pipelines
+- **Performance testing** expertise using Locust for optimizing application scalability
+- **Programming languages:** Proficient in PHP, working knowledge of Golang, Python and Lua, exploring Elixir,  Rust, Scala and Erlang
 
+#### What drives me:
 
-#### Social
-- LinkedIn: <a href="https://www.linkedin.com/in/ilya-glebov/" target="_blank">Ilya Glebov</a>
-- Twitter: <a href="https://twitter.com/glebovdev" target="_blank">@glebovdev</a>
-- Medium: <a href="https://glebovdev.medium.com/" target="_blank">@glebovdev</a>
-- Instagram: <a href="https://instagram.com/glebovdev">@glebovdev</a>
+💡 **Continuous learning** and exploring emerging technologies  
+🤝 **Helping others succeed** through mentorship and knowledge sharing  
+🔍 **Attention to detail** and commitment to quality in everything I build  
+🌐 Enhancing **Developer Experience (_DevEx_)** by creating better tools and environments for developers  
+
+I believe that great software comes from engineers who **truly care** about their craft and the people who use their products.
+
+#### Feel free to reach out, follow, or just say hi 👇
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilya_Glebov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-glebov/)
+[![X](https://img.shields.io/badge/twitter-@glebovdev-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/glebovdev)
+[![Medium](https://img.shields.io/badge/Medium-@glebovdev-000000?style=for-the-badge&logo=medium&logoColor=white)](https://glebovdev.medium.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-@glebovdev-FD1D1D?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/glebovdev)
+
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -21,6 +38,4 @@ In addition to web technologies, I'm passionate about various programming langua
 - [Fix for “Unable to resolve dependency” Vagrant issue on macOS](https://glebovdev.medium.com/fix-for-unable-to-resolve-dependency-vagrant-issue-on-macos-61228f8fa5fc?source=rss-5b7d5ccae745------2)
 <!-- BLOG-POST-LIST:END -->
 
-More on my personal site 👉🏼 <a href="https://ilyaglebov.dev" target="_blank">ilyaglebov.dev</a> (soon)
-
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/glebovdev/glebovdev)
+[![More on my personal website 👉🏼 ilyaglebov.dev](https://img.shields.io/badge/Here_more_👉🏼_ilyaglebov.dev-000000?style=for-the-badge)](https://ilyaglebov.dev)
