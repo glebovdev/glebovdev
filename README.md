@@ -23,10 +23,10 @@ I believe that great software comes from engineers who **truly care** about thei
 
 #### Feel free to reach out, follow, or just say hi 👇
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilya_Glebov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-glebov/)
-[![X](https://img.shields.io/badge/twitter-@glebovdev-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/glebovdev)
-[![Medium](https://img.shields.io/badge/Medium-@glebovdev-000000?style=for-the-badge&logo=medium&logoColor=white)](https://glebovdev.medium.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-@glebovdev-FD1D1D?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/glebovdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilya_Glebov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-glebov/)
+[![X](https://img.shields.io/badge/twitter-@glebovdev-1DA1F2?logo=x&logoColor=white)](https://x.com/glebovdev)
+[![Medium](https://img.shields.io/badge/Medium-@glebovdev-000000?logo=medium&logoColor=white)](https://glebovdev.medium.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-@glebovdev-FD1D1D?logo=instagram&logoColor=white)](https://instagram.com/glebovdev)
 
 
 #### Recent blog posts
