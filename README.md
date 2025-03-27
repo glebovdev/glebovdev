@@ -17,7 +17,7 @@ and turning complex problems into simple, elegant solutions.
 💡 **Continuous learning** and exploring emerging technologies  
 🤝 **Helping others succeed** through mentorship and knowledge sharing  
 🔍 **Attention to detail** and commitment to quality in everything I build  
-🌐 Enhancing **Developer Experience (_DevEx_)** by creating better tools and environments for developers  
+🚀 Enhancing **Developer Experience (_DevEx_)** by creating better tools and environments for developers  
 
 I believe that great software comes from engineers who **truly care** about their craft and the people who use their products.
 
